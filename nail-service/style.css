@@ -1,0 +1,88 @@
+.logo-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 10px;
+    font-weight: 900;
+    margin: 30px ;
+    font-size: 5vw;
+    text-shadow: 2px 0px 15px violet, 2px 0px 25px rgb(100, 7, 100) ;
+    /* font-family: 'Zen Tokyo Zoo', cursive; */
+     /* font-family: 'Lemon', cursive;  */
+  /* font-family: 'Chango', cursive; */
+/* font-family: 'Bowlby One', cursive; */
+  /* font-family: 'Black Han Sans', sans-serif; */
+  font-family: 'Bruno Ace SC', cursive;
+    color: rgb(27, 3, 49);
+}
+.logo-div{
+    background-image: url(фон-2.jpg);
+    padding: 50px;
+    text-align: center;
+     padding-bottom: 0;
+    
+    
+  
+    
+   
+}
+.logo-p{
+    font-size: 1.5vw;
+
+}
+.active{
+    font-weight: 900;
+}
+img{
+    width: 100%;
+}
+body{
+    background-attachment: fixed;
+    background-size: cover;
+    background: #B1A8B9;
+}
+.radius-img{
+    border-radius: 20px;
+}
+.navbar{
+     background: linear-gradient(to left, #dbdada, gray) ;
+}
+.nav-link{
+        color: rgb(73, 8, 137);
+        font-size: 1.5vw;
+}
+ .active{
+    color: rgb(73, 8, 137) !important;
+
+}
+.logo-nan{
+    background-image: url(фон-2.jpg);
+    padding: 50px;
+    text-align: center;
+     
+}
+.nav-link-lov{
+    color: rgb(73, 8, 137) !important;
+}
+.pipika{
+    /* color: blue; */
+}
+.logo-p{
+    color: darkslateblue;
+    
+}
+footer{
+    background-color: #3f3e3e;
+    padding: 40px 0;
+    color: #dbdada;
+}
+.socio-link a{
+    color: beige;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 2rem;
+}
+.socio-link a:hover{
+    color: aqua;
+}
+.list-service{
+text-align: left;
+}
